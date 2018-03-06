@@ -66,6 +66,7 @@ cd
 apt-get install -y build-essential libtool autotools-dev pkg-config libssl-dev libboost-all-dev
 autoconf automake 
 ```
+```
 apt-get -y install software-properties-common
 ```
 ```
