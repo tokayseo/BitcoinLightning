@@ -60,19 +60,7 @@ swapon /var/swap.img
 echo "/var/swap.img none swap sw 0 0" >> /etc/fstab
 ```
 ```
-
-```
-```
-
-```
-```
-
-
-
-
-
 cd
-```
 ```
 ```
 apt-get install -y build-essential libtool autotools-dev pkg-config libssl-dev libboost-all-dev
@@ -201,6 +189,7 @@ Replace:
 externalip=VPS_IP_ADDRESS
 masternodeprivkey=WALLET_GENKEY
 With your info!
+```
 ```
 rpcuser=putanythingyoulike
 rpcpassword=putanythinkyoulike
